@@ -113,7 +113,7 @@ $ git status
 ```
 
 Now you can create the three files and redistribute the code. If you're not sure about what to do,
-decompress the [already split sources](https://github.com/lodr/gitincouples/raw/master/kata/splitsource.zip)
+decompress the [already split sources](https://github.com/miquelbar/gitincouples/raw/master/kata/splitsource.zip)
 into your working tree and replace when asked. 
 
 If splitting manually, don't forget to adjust the HTML by replacing the reference to `kata.js` script
@@ -611,4 +611,4 @@ _Congratulations, you've finished Git In Couples!_
 So you've finished the exercise. It could be great if you now delete your local repository (by simply
 removing the folder) and [the remote one in GitHub](https://help.github.com/articles/deleting-a-repository)
 and switch roles with Alice. Don't stop visiting
-[FAQ and Tricks](https://github.com/lodr/gitincouples/edit/master/faq.md) to find additional help!
+[FAQ and Tricks](https://github.com/miquelbar/gitincouples/edit/master/faq.md) to find additional help!
