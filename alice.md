@@ -72,7 +72,7 @@ _Ask Bob for collaboration..._
 3. Publish your initial code
 ----------------------------
 
-[Download your initial code](https://github.com/lodr/gitincouples/raw/master/kata/initialkata.zip)
+[Download your initial code](https://github.com/miquelbar/gitincouples/raw/master/kata/initialkata.zip)
 in a zip and decompress the contents into your working tree. Now check the git status by typing:
 
 ```bash
