@@ -1,3 +1,5 @@
+This is a fork only used for teaching purpose
+
 Git in Couples
 ==============
 
