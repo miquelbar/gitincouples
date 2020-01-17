@@ -418,7 +418,7 @@ branch for this named `refactor-into-classes`.
 $ git checkout -b refactor-into-classes
 ```
 
-Now you can download the [refactored sources](https://github.com/lodr/gitincouples/raw/master/kata/classes.zip)
+Now you can download the [refactored sources](https://github.com/miquelbar/gitincouples/raw/master/kata/classes.zip)
 and decompress into your working tree overwriting the `js` folder.
 
 Don't forget to commit your changes and prepare a PR.
@@ -531,4 +531,4 @@ _Congratulations, you finished `Git In Couples`!_
 So you've finished the exercise. It could be great if you now delete your local repository (by simply
 removing the folder) and [the remote one in GitHub](https://help.github.com/articles/deleting-a-repository)
 and switch roles with Alice. Don't stop visiting
-[FAQ and Tricks](https://github.com/lodr/gitincouples/edit/master/faq.md) to find additional help!
+[FAQ and Tricks](https://github.com/miquelbar/gitincouples/edit/master/faq.md) to find additional help!
